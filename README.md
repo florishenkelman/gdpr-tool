@@ -26,6 +26,5 @@ Om deze applicatie te laten lopen op je computer heb je verschillende software n
 16.	Daarna kun je terug naar het inlogscherm om in te loggen met je e-mailadres en wachtwoord.
 17.	Veel plezier bij het gebruiken van de applicatie. 
 
-**Gebruikersrollen en user-rollen
-**
+**Gebruikersrollen en user-rollen**
 Er zijn drie rollen beschikbaar: admin, editor en viewer. Wanneer je een account aanmaakt kun je kiezen welke rol je wilt. De verschillende rollen geven je verschillende bevoegdheden. Een admin kan bijvoorbeeld een gebruiker toevoegen of verwijderen. Iedere rol kan onder ‘users’ zien welke gebruikers er in de groep zijn. Ik raad je aan om 3 unieke accounts aan te maken met de verschillende rollen, zodat je kunt zien wat de verschillen zijn.
