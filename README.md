@@ -1,4 +1,4 @@
-Dit is de installatiehandleiding voor mijn GDPR-tool. Het is een applicatie om taken te beheren, samen te werken met collega’s, en wet- en regelgeving op te zoeken. Het is op dit moment nog een test-versie, je kunt het draaien op een localhost op je computer. Het doel is om het uiteindelijk uit te brengen en online te zetten. Hier heb ik nog meer tijd voor nodig om het verder te ontwikkelen. Hieronder lees je wat je nodig hebt om de applicatie op de je comupter te installeren.
+Dit is de installatiehandleiding voor mijn GDPR-tool. Het is een applicatie om taken te beheren, samen te werken met collega’s, en wet- en regelgeving op te zoeken. Het is op dit moment nog een test-versie, je kunt het draaien op een localhost op je computer. Het doel is om het uiteindelijk uit te brengen en online te zetten. Hier heb ik nog meer tijd voor nodig om het verder te ontwikkelen. Hieronder lees je wat je nodig hebt om de applicatie op je comupter te installeren.
 
 **Benodigdheden**
 
