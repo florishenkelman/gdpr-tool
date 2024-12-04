@@ -31,8 +31,3 @@ Om deze applicatie te laten lopen op je computer heb je verschillende software n
 
 **Gebruikersrollen en user-rollen**
 Er zijn drie rollen beschikbaar: admin, editor en viewer. Wanneer je een account aanmaakt kun je kiezen welke rol je wilt. De verschillende rollen geven je verschillende bevoegdheden. Een admin kan bijvoorbeeld een gebruiker toevoegen of verwijderen. Iedere rol kan onder ‘users’ zien welke gebruikers er in de groep zijn. Ik raad je aan om 3 unieke accounts aan te maken met de verschillende rollen, zodat je kunt zien wat de verschillen zijn. Het hoeft niet je eigen e-mailadres te zijn, zolang het maar een e-mailadres is. Bijvoorbeeld floris@gmail.com.
-<<<<<<< HEAD
-
->>>>>>> f69fba7e6723928016308106b7da3c146bc6c711
-=======
->>>>>>> 210a0c926b7be92c726c2c1338ed5c4404a13e85
